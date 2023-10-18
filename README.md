@@ -1,7 +1,7 @@
 # vhome-env
 VirtualHome Python programming environment, with examples and tests.
 
-We would like to have a working environment with the [VirtualHome](http://virtual-home.org) simulator for our students in which they could experiment with virtual cognitive robotics experiments in an indoor environment.
+We would like to have a working environment with the [VirtualHome](http://virtual-home.org) simulator for our students in which they could work with virtual cognitive robotics experiments in an indoor environment.
 
 # Installation
 
