@@ -9,12 +9,12 @@ sys.path.append(workspace_path)
 from virtualhome.simulation.unity_simulator.comm_unity import UnityCommunication
 
 # For GNU/Linux
-# exec_file = 'linux_exec/linux_exec*.x86_64'
+# exec_file = 'linux_exec/linux_exec.v2.3.0.x86_64'
 
 # For MacOS
 # exec_file = 'macos_exec/macos_exec.v2.3.0.app/Contents/MacOS/VirtualHome'
 
-exec_file = 'linux_exec/linux_exec*.x86_64'
+exec_file = 'linux_exec/linux_exec.v2.3.0.x86_64'
 
 assert os.path.isfile(exec_file)
 
