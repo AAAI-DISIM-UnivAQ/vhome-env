@@ -5,7 +5,7 @@ We would like to have a working environment with the [VirtualHome](http://virtua
 
 # Installation
 
-inimal installation and test of the [VirtualHome](http://virtual-home.org) simulator
+Minimal installation and test of the [VirtualHome](http://virtual-home.org) simulator:
 
 ## Conda ENV
 
