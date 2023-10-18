@@ -25,7 +25,6 @@ get the modified virtual home repo:
 
 ```
 git clone https://github.com/AAAI-DISIM-UnivAQ/virtualhome
-cd virtualhome
 ```
 
 get the right simulator according to your OS.
@@ -40,7 +39,9 @@ for macos, replace `linux_exec` with `macos_exec`
 
 # Installation
 ```
+cd virtualhome
 pip install -e .
+cd ..
 ```
 # Testing
 ```
